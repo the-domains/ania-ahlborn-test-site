@@ -1,6 +1,6 @@
 name: Ania Ahlborn Test Site
 favicon: null
-layout_spectrum: 0.94726
+layout_spectrum: 0.62714
 typography_spectrum: 0.74664
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010101'
-    - '#35383d'
-    - '#c8d0d3'
-    - '#95a19d'
-    - '#767a55'
+    - '#df9242'
+    - '#ae2127'
+    - '#d9c7c5'
+    - '#000000'
+    - '#ffffff'
   brandStrength: 0.0625
-  lightness: 0
+  lightness: 0.3125
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
