@@ -6,24 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T23:56:37.654Z'
-dateModified: '2016-02-09T23:56:17.860Z'
+datePublished: '2016-02-10T00:23:22.771Z'
+dateModified: '2016-02-10T00:21:03.579Z'
 title: The Pretty Ones
 author: []
+sourcePath: _posts/2016-02-09-the-pretty-ones.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-the-pretty-ones.md
-published: true
 url: the-pretty-ones/index.html
 _type: Article
 
 ---
-# The Pretty Ones
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85425df7-154c-4df5-81c6-3ecd7100b8ca.jpg)
+
+# The Pretty Ones
 
 ## A terrifying new e-novella from the bestselling author of Within These Walls and The Bird Eater!
 
