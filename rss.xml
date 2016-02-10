@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ania Ahlborn Test Site]]></title>
         <description><![CDATA[Ania Ahlborn Test Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ania-ahlborn-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 00:01:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 00:02:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ania-ahlborn-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brother]]></title>
+            <description><![CDATA[<article><h1>Brother</h1><h2>From the bestselling horror author of Within These Walls and The Bird Eater comes a brand-new novel of terror that follows a teenager determined to break from his family’s unconventional—and deeply disturbing—traditions.</h2><p>Deep in the heart of Appalachia stands a crooked farmhouse miles from any road. The Morrows keep to themselves, and it’s served them well so far. When girls go missing off the side of the highway, the cops don’t knock on their door. Which is a good thing, seeing as to what’s buried in the Morrows’ backyard.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd41f483-3c59-47e8-a2fc-755bc6b87cb5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ania-ahlborn-test-site/brother/index.html</link>
+            <guid isPermaLink="false">d0c3812c-307f-4475-9387-4d3c2eab8630</guid>
+            <pubDate>Wed, 10 Feb 2016 00:00:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Pretty Ones]]></title>
-            <description><![CDATA[<article><h1>The Pretty Ones</h1><h2>A terrifying new e-novella from the bestselling author of Within These Walls and The Bird Eater!</h2><p>New York, 1977. The sweltering height of the Summer of Sam. The entire city is gripped with fear, but all Nell Sullivan worries about is whether or not she’ll ever make a friend. The self-proclaimed “Plain Jane” does her best to fit in with the girls at work, but Nell’s brother, Barrett, assures her that she’ll never be like them. When Nell manages to finally garner some much-yearned-for attention, the unthinkable happens to her newfound friend. The office pool blames Son of Sam, but Nell knows the awful truth…because doing the devil’s work is easy when there’s already a serial killer on the loose.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85425df7-154c-4df5-81c6-3ecd7100b8ca.jpg"></article>]]></description>
-            <link>undefinedthe-pretty-ones/index.html</link>
+            <description><![CDATA[<article><h1>The Pretty Ones</h1><h2>A terrifying new e-novella from the bestselling author of Within These Walls and The Bird Eater!</h2><p>New York, 1977. The sweltering height of the Summer of Sam. The entire city is gripped with fear, but all Nell Sullivan worries about is whether or not she’ll ever make a friend. The self-proclaimed “Plain Jane” does her best to fit in with the girls at work, but Nell’s brother, Barrett, assures her that she’ll never be like them. When Nell manages to finally garner some much-yearned-for attention, the unthinkable happens to her newfound friend. The office pool blames Son of Sam, but Nell knows the awful truth…because doing the devil’s work is easy when there’s already a serial killer on the loose.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb063609b12d9bb40b42a4f87c3904c789421f59.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ania-ahlborn-test-site/the-pretty-ones/index.html</link>
             <guid isPermaLink="false">12a4e7d0-4924-458d-95bb-9b2c5d5721b5</guid>
             <pubDate>Tue, 09 Feb 2016 23:56:37 GMT</pubDate>
         </item>
