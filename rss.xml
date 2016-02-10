@@ -4,8 +4,15 @@
         <description><![CDATA[Ania Ahlborn Test Site]]></description>
         <link>https://thegrid.ai/ania-ahlborn-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 05:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 05:25:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ania-ahlborn-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Pretty Ones]]></title>
+            <description><![CDATA[<article><h1>The Pretty Ones</h1><p>A terrifying new e-novella from the bestselling author of Within These Walls and The Bird Eater!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efe250c9-25f4-4fd7-b1ba-6374d7105065.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ania-ahlborn-test-site/the-pretty-ones/index.html</link>
+            <guid isPermaLink="false">7a9461e6-fd91-4944-be82-147dbb9ba55f</guid>
+            <pubDate>Wed, 10 Feb 2016 05:12:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Shuddering]]></title>
             <description><![CDATA[<article><h1>The Shuddering</h1><p>Ryan Adler and his twin sister, Jane, spent their happiest childhood days at their parents’ mountain Colorado cabin—until divorce tore their family apart. Now, with the house about to be sold, the Adler twins gather with their closest friends for one last snowboarding-filled holiday. While commitment-phobic Ryan gazes longingly at Lauren, wondering if his playboy days are over, Jane’s hopes of reconciling with her old boyfriend evaporate when he brings along his new fiancée. As drama builds among the friends, something lurks in the forest, watching the cabin, growing ever bolder as the snow falls…and hunger rises.</p></article>]]></description>
@@ -25,7 +32,7 @@
             <description><![CDATA[<article><h1>Brother</h1><p>From the bestselling horror author of Within These Walls and The Bird Eater comes a brand-new novel of terror that follows a teenager determined to break from his family’s unconventional—and deeply disturbing—traditions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4acbdbf2d266f4873638100203acf755d029b752.jpg"></article>]]></description>
             <link>https://thegrid.ai/ania-ahlborn-test-site/brother/index.html</link>
             <guid isPermaLink="false">7ef869b0-9bb7-4e65-987f-cb0c111cce5d</guid>
-            <pubDate>Wed, 10 Feb 2016 04:59:46 GMT</pubDate>
+            <pubDate>Wed, 10 Feb 2016 05:22:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
